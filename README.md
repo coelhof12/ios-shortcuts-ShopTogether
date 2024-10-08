@@ -1,6 +1,6 @@
 # Shopping List for Two iOS Shortcut
 
-![Project Cover](https://raw.githubusercontent.com/yourusername/repository-name/main/assets/Repo_Cover.jpg)
+![Project Cover](https://raw.githubusercontent.com/coelhof12/ios-shortcuts-ShopTogether/refs/heads/main/Repo_Cover.jpg)
 
 ### Easily manage and share a shopping list with another person
 
