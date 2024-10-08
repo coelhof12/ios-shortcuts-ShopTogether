@@ -1,4 +1,4 @@
-# Shopping List for Two iOS Shortcut
+# Shopping List for Two iOS Shortcut 🛒
 
 ![Project Cover](https://raw.githubusercontent.com/coelhof12/ios-shortcuts-ShopTogether/refs/heads/main/Repo_Cover.jpg)
 
