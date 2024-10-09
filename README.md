@@ -31,9 +31,11 @@ Streamline your grocery shopping experience by using this iOS shortcut to create
 
 ## 🛠️ How to Use
 
-1. Run the shortcut and start adding items to the list.
-2. The list will automatically update for both users, so you stay in sync.
-3. Check off items as you shop, and they’ll be marked as completed for both users.
+1. Create a list in the 'Reminders' app.
+2. Invite the person you want to colaboratein this list with.
+3. Run the shortcut and start adding items to the list.
+The list will automatically update for both users, so you stay in sync.
+Check off items as you shop, and they’ll be marked as completed for both users.
 
 ## 💬 Contributing
 
