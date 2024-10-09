@@ -1,4 +1,4 @@
-# 🛒 Shopping List for Two iOS Shortcut
+# 🛒 Shopping List for Two
 
 ![Project Cover](https://raw.githubusercontent.com/coelhof12/ios-shortcuts-ShopTogether/refs/heads/main/Repo_Cover.jpg)
 
@@ -13,19 +13,19 @@ Streamline your grocery shopping experience by using this iOS shortcut to create
 ## 🎥 Shortcut Demo
 
 <p align="center"> 
-   <img width="460" height="300" src="https://raw.githubusercontent.com/yourusername/repository-name/main/assets/shopping_shortcut_demo.gif"> 
+   <img width="460" height="300"INSERTRAWHERELATER"> 
 </p>
 
 ## ✨ Features
 
 - Simple, easy-to-use interface for adding and removing items.
 - Syncs the list for two people, ensuring both have access to the latest items.
-- Custom notifications when items are added or completed.
+- Custom automatic message is sent when items are added or completed.
 - Optimized for grocery shopping, but adaptable for any kind of list.
 
 ## 🔧 Installation
 
-1. Download the shortcut by [clicking here](https://www.icloud.com/shortcuts/5a468a52e8b34e5c930e8954e174182e).
+1. Download the shortcut by [clicking here](INSERTSHORTCUTLINKHERELATER).
 2. Open it in your iOS Shortcuts app or on your MacOS system.
 3. Grant the necessary permissions for access to the Reminders or Notes app (depending on your list storage preference).
 
